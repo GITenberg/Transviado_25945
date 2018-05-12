@@ -1,0 +1,33 @@
+_repo: Transviado_25945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - Lima, Jaime de Magalhaes
+    - Lima, Jayme de Magalhães
+    - Magalhães Lima, Jaime de
+    - De Magalhães Lima, Jaime
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2008-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25945'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+title: Transviado
+url: http://www.gutenberg.org/ebooks/25945
